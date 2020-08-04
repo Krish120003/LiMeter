@@ -1,6 +1,8 @@
 # LiMeter
  
 ## This is a WIP. Things may break and may not work for everyone.
+For those looking for the P5 Date and Weather widget, I will add that to the repo shortly along with other elements such as the main window and rotation code.
+
 
 ## Disclamer:
 ### This program was created with only functionality on one system in mind without much concern for Optimization/Distribution. Please consider contributing to further improve it.
