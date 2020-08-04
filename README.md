@@ -12,4 +12,4 @@ For those looking for the P5 Date and Weather widget, I will add that to the rep
 
 ## Tested on Windows 10 and Ubuntu 18.04
 
-### The visualizer was made possible by @sbarratt 's spectrum-analyzer which is used for audio data capture.
+The visualizer was made possible by @sbarratt 's spectrum-analyzer which is used for audio data capture.
